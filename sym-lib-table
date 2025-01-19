@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "WiFiFlex")(type "KiCad")(uri "${KIPRJMOD}/WiFiFlex.kicad_sym")(options "")(descr ""))
+)
